@@ -1,7 +1,7 @@
 # IntroToCSharp_Bonilla
-Prelim Lab 01 - Codac Logistics Fuel Tracking Tool
-
+Prelim Lab 01 - Codac Logistics Fuel Tracking Tool 
 by: Jasmin Claire C. Bonilla (BSIT - 3.2)
+
 
 Description:
 This console-based C# application simulates a fuel and performance tracking system for a logistics company. 
